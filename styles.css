@@ -1,5 +1,5 @@
 body {
-    background-image: url("background-image.jpg"); /* Replace "background-image.jpg" with the path to your image file */
+    background-color: tomato;
     background-repeat: no-repeat;
     background-size: cover;
 }
